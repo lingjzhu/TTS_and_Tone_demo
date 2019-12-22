@@ -54,6 +54,41 @@
 
 ### Tone-3 sandhi samples
 
+#### Sample 1
+##### Tacotron 2
+<audio controls="controls">
+<source type="audio/wav" src="tone_3/pinyin_p21.wav"></source>
+</audio>
+
+##### Tacotron 2 + BERT
+<audio controls="controls">
+<source type="audio/wav" src="tone_3/bert_p21.wav"></source>
+</audio>
+
+
+#### Sample 2
+##### Tacotron 2
+<audio controls="controls">
+<source type="audio/wav" src="tone_3/pinyin_p25.wav"></source>
+</audio>
+
+##### Tacotron 2 + BERT
+<audio controls="controls">
+<source type="audio/wav" src="tone_3/bert_p25.wav"></source>
+</audio>
+
+
+#### Sample 3
+##### Tacotron 2
+<audio controls="controls">
+<source type="audio/wav" src="tone_3/pinyin_p39.wav"></source>
+</audio>
+
+##### Tacotron 2 + BERT
+<audio controls="controls">
+<source type="audio/wav" src="tone_3/bert_p39.wav"></source>
+</audio>
+
 
 
 ### Random samples
