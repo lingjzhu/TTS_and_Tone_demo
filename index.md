@@ -55,6 +55,7 @@
 ### Tone-3 sandhi samples
 
 #### Sample 1
+请你给我买两把雨伞。
 ##### Tacotron 2
 <audio controls="controls">
 <source type="audio/wav" src="tone_3/pinyin_p21.wav"></source>
@@ -67,6 +68,7 @@
 
 
 #### Sample 2
+种马场养有五百匹好母马。
 ##### Tacotron 2
 <audio controls="controls">
 <source type="audio/wav" src="tone_3/pinyin_p25.wav"></source>
@@ -79,6 +81,7 @@
 
 
 #### Sample 3
+我想请你给我好好辅导法语补语。
 ##### Tacotron 2
 <audio controls="controls">
 <source type="audio/wav" src="tone_3/pinyin_p39.wav"></source>
