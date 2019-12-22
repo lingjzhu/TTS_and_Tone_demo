@@ -95,4 +95,50 @@
 
 
 ### Random samples
+#### Sample 1
+衣服上除了校徽别别别的，但是有同学不听话，让他别别别的别别别的他非得别别的。
+##### Tacotron 2
+<audio controls="controls">
+<source type="audio/wav" src="random/pinyin_bie.wav"></source>
+</audio>
 
+##### Tacotron 2 + BERT
+<audio controls="controls">
+<source type="audio/wav" src="random/bert_bie.wav"></source>
+</audio>
+
+#### Sample 2
+我也想过过过儿过过的生活。
+##### Tacotron 2
+<audio controls="controls">
+<source type="audio/wav" src="random/pinyin_guo.wav"></source>
+</audio>
+
+##### Tacotron 2 + BERT
+<audio controls="controls">
+<source type="audio/wav" src="random/bert_guo.wav"></source>
+</audio>
+
+#### Sample 3
+我有一个小本本本本本来很干净，后来给我弄脏了。
+##### Tacotron 2
+<audio controls="controls">
+<source type="audio/wav" src="random/pinyin_ben.wav"></source>
+</audio>
+
+##### Tacotron 2 + BERT
+<audio controls="controls">
+<source type="audio/wav" src="random/bert_ben.wav"></source>
+</audio>
+
+#### Sample 4
+过几天天天天气不好，下雨天骑车容易打滑，还好我反应快，一把把把把住了。
+##### Tacotron 2
+<audio controls="controls">
+<source type="audio/wav" src="random/pinyin_tian.wav"></source>
+</audio>
+
+##### Tacotron 2 + BERT
+<audio controls="controls">
+<source type="audio/wav" src="random/bert_tian.wav"></source>
+</audio>
