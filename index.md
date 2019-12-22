@@ -1,4 +1,4 @@
-### This is the online TTS demo for the paper **Probing the phonetic and phonological knowledge of tones in Mandarin TTS models**.
+### This is the online TTS demo for the paper *Probing the phonetic and phonological knowledge of tones in Mandarin TTS models*.
 
 
 
