@@ -3,6 +3,7 @@
 
 
 ### TTS samples
+These are samples for evaluating the quality of TTS models.
 #### Sample 1
 ##### Ground truth
 <audio controls="controls">
@@ -53,7 +54,8 @@
 </audio>
 
 ### Tone-3 sandhi samples
-
+These are the samples for probing the phonological knowledge of Tone-3 sandhi in TTS models.
+Neither models were successful in this task. 
 #### Sample 1
 请你给我买两把雨伞。
 ##### Tacotron 2
@@ -95,7 +97,7 @@
 
 
 ### Random samples
-These are some syntactically complex sentences.
+These are some syntactically complex sentences. Just for fun.
 #### Sample 1
 衣服上除了校徽别别别的，但是有同学不听话，让他别别别的别别别的他非得别别的。
 ##### Tacotron 2
